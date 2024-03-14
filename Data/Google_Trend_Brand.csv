@@ -1,0 +1,53 @@
+﻿Region,CNN: (11/9/16 - 11/3/20),Fox News: (11/9/16 - 11/3/20),Cable Network,Subaru: (11/9/16 - 11/3/20),Chevrolet: (11/9/16 - 11/3/20),Car,H&M: (11/9/16 - 11/3/20),Belk: (11/9/16 - 11/3/20),Department Store,Trader Joes: (11/9/16 - 11/3/20),Sams Club: (11/9/16 - 11/3/20),Grocery Store,Advil: (11/9/16 - 11/3/20),Aspirin: (11/9/16 - 11/3/20),Pain Reliever
+Alabama,0.31,0.69,Fox News,0.23,0.77,Chevrolet,0.12,0.88,Belk,0.09,0.91,Sam's Club,0.40,0.60,Aspirin
+Alaska,0.45,0.55,Fox News,0.77,0.23,Subaru,0.93,0.07,H&M,0.17,0.83,Sam's Club,0.39,0.61,Aspirin
+Arizona,0.49,0.51,Fox News,0.47,0.53,Chevrolet,0.95,0.05,H&M,0.26,0.74,Sam's Club,0.41,0.59,Aspirin
+Arkansas,0.41,0.59,Fox News,0.32,0.68,Chevrolet,0.28,0.72,Belk,0.05,0.95,Sam's Club,0.30,0.70,Aspirin
+California,0.61,0.39,CNN,0.59,0.41,Subaru,0.97,0.03,H&M,0.57,0.43,TraderJoe's,0.52,0.48,Advil
+Colorado,0.53,0.47,CNN,0.75,0.25,Subaru,0.94,0.06,H&M,0.24,0.76,Sam's Club,0.48,0.52,Aspirin
+Connecticut,0.60,0.40,CNN,0.73,0.27,Subaru,0.94,0.06,H&M,0.61,0.39,TraderJoe's,0.57,0.43,Advil
+Delaware,0.55,0.45,CNN,0.53,0.47,Subaru,0.91,0.09,H&M,0.32,0.68,Sam's Club,0.51,0.49,Advil
+District of Columbia,0.67,0.33,CNN,0.56,0.44,Subaru,0.90,0.10,H&M,0.69,0.31,TraderJoe's,0.53,0.47,Advil
+Florida,0.51,0.49,CNN,0.37,0.63,Chevrolet,0.62,0.38,H&M,0.19,0.81,Sam's Club,0.47,0.53,Aspirin
+Georgia,0.46,0.54,Fox News,0.31,0.69,Chevrolet,0.27,0.73,Belk,0.17,0.83,Sam's Club,0.45,0.55,Aspirin
+Hawaii,0.63,0.37,CNN,0.67,0.33,Subaru,0.97,0.03,H&M,0.13,0.87,Sam's Club,0.47,0.53,Aspirin
+Idaho,0.39,0.61,Fox News,0.67,0.33,Subaru,0.94,0.06,H&M,0.37,0.63,Sam's Club,0.37,0.63,Aspirin
+Illinois,0.56,0.44,CNN,0.48,0.52,Chevrolet,0.93,0.07,H&M,0.24,0.76,Sam's Club,0.46,0.54,Aspirin
+Indiana,0.40,0.60,Fox News,0.40,0.60,Chevrolet,0.87,0.13,H&M,0.10,0.90,Sam's Club,0.39,0.61,Aspirin
+Iowa,0.50,0.50,,0.41,0.59,Chevrolet,0.85,0.15,H&M,0.12,0.88,Sam's Club,0.37,0.63,Aspirin
+Kansas,0.43,0.57,Fox News,0.43,0.57,Chevrolet,0.88,0.12,H&M,0.13,0.87,Sam's Club,0.36,0.64,Aspirin
+Kentucky,0.45,0.55,Fox News,0.30,0.70,Chevrolet,0.40,0.60,Belk,0.12,0.88,Sam's Club,0.36,0.64,Aspirin
+Louisiana,0.38,0.62,Fox News,0.21,0.79,Chevrolet,0.44,0.56,Belk,0.15,0.85,Sam's Club,0.43,0.57,Aspirin
+Maine,0.56,0.44,CNN,0.73,0.27,Subaru,0.89,0.11,H&M,0.21,0.79,Sam's Club,0.45,0.55,Aspirin
+Maryland,0.61,0.39,CNN,0.55,0.45,Subaru,0.84,0.16,H&M,0.28,0.72,Sam's Club,0.45,0.55,Aspirin
+Massachusetts,0.65,0.35,CNN,0.70,0.30,Subaru,0.95,0.05,H&M,0.82,0.18,TraderJoe's,0.56,0.44,Advil
+Michigan,0.44,0.56,Fox News,0.39,0.61,Chevrolet,0.91,0.09,H&M,0.15,0.85,Sam's Club,0.37,0.63,Aspirin
+Minnesota,0.52,0.48,CNN,0.52,0.48,Subaru,0.94,0.06,H&M,0.20,0.80,Sam's Club,0.45,0.55,Aspirin
+Mississippi,0.33,0.67,Fox News,0.16,0.84,Chevrolet,0.10,0.90,Belk,0.05,0.95,Sam's Club,0.34,0.66,Aspirin
+Missouri,0.39,0.61,Fox News,0.36,0.64,Chevrolet,0.81,0.19,H&M,0.12,0.88,Sam's Club,0.37,0.63,Aspirin
+Montana,0.41,0.59,Fox News,0.72,0.28,Subaru,0.90,0.10,H&M,0.12,0.88,Sam's Club,0.39,0.61,Aspirin
+Nebraska,0.46,0.54,Fox News,0.51,0.49,Subaru,0.89,0.11,H&M,0.16,0.84,Sam's Club,0.37,0.63,Aspirin
+Nevada,0.49,0.51,Fox News,0.59,0.41,Subaru,0.96,0.04,H&M,0.22,0.78,Sam's Club,0.45,0.55,Aspirin
+New Hampshire,0.58,0.42,CNN,0.72,0.28,Subaru,0.90,0.10,H&M,0.36,0.64,Sam's Club,0.53,0.47,Advil
+New Jersey,0.60,0.40,CNN,0.67,0.33,Subaru,0.95,0.05,H&M,0.48,0.52,Sam's Club,0.57,0.43,Advil
+New Mexico,0.52,0.48,CNN,0.54,0.46,Subaru,0.93,0.07,H&M,0.14,0.86,Sam's Club,0.35,0.65,Aspirin
+New York,0.62,0.38,CNN,0.62,0.38,Subaru,0.96,0.04,H&M,0.60,0.40,TraderJoe's,0.54,0.46,Advil
+North Carolina,0.48,0.52,Fox News,0.38,0.62,Chevrolet,0.14,0.86,Belk,0.22,0.78,Sam's Club,0.43,0.57,Aspirin
+North Dakota,0.43,0.57,Fox News,0.43,0.57,Chevrolet,0.90,0.10,H&M,0.03,0.97,Sam's Club,0.40,0.60,Aspirin
+Ohio,0.44,0.56,Fox News,0.46,0.54,Chevrolet,0.84,0.16,H&M,0.13,0.87,Sam's Club,0.44,0.56,Aspirin
+Oklahoma,0.41,0.59,Fox News,0.30,0.70,Chevrolet,0.56,0.44,H&M,0.12,0.88,Sam's Club,0.36,0.64,Aspirin
+Oregon,0.58,0.42,CNN,0.58,0.42,Subaru,0.95,0.05,H&M,0.91,0.09,TraderJoe's,0.43,0.57,Aspirin
+Pennsylvania,0.52,0.48,CNN,0.66,0.34,Subaru,0.91,0.09,H&M,0.21,0.79,Sam's Club,0.46,0.54,Aspirin
+Rhode Island,0.61,0.39,CNN,0.72,0.28,Subaru,0.95,0.05,H&M,0.74,0.26,TraderJoe's,0.51,0.49,Advil
+South Carolina,0.42,0.58,Fox News,0.30,0.70,Chevrolet,0.13,0.87,Belk,0.15,0.85,Sam's Club,0.39,0.61,Aspirin
+South Dakota,0.41,0.59,Fox News,0.58,0.42,Subaru,0.86,0.14,H&M,0.06,0.94,Sam's Club,0.34,0.66,Aspirin
+Tennessee,0.40,0.60,Fox News,0.35,0.65,Chevrolet,0.19,0.81,Belk,0.14,0.86,Sam's Club,0.38,0.62,Aspirin
+Texas,0.49,0.51,Fox News,0.27,0.73,Chevrolet,0.70,0.30,H&M,0.16,0.84,Sam's Club,0.46,0.54,Aspirin
+Utah,0.43,0.57,Fox News,0.71,0.29,Subaru,0.97,0.03,H&M,0.22,0.78,Sam's Club,0.40,0.60,Aspirin
+Vermont,0.64,0.36,CNN,0.77,0.23,Subaru,0.94,0.06,H&M,0.74,0.26,TraderJoe's,0.53,0.47,Advil
+Virginia,0.54,0.46,CNN,0.42,0.58,Chevrolet,0.47,0.53,Belk,0.32,0.68,Sam's Club,0.48,0.52,Aspirin
+Washington,0.58,0.42,CNN,0.73,0.27,Subaru,0.96,0.04,H&M,0.82,0.18,TraderJoe's,0.44,0.56,Aspirin
+West Virginia,0.41,0.59,Fox News,0.56,0.44,Subaru,0.31,0.69,Belk,0.03,0.97,Sam's Club,0.33,0.67,Aspirin
+Wisconsin,0.45,0.55,Fox News,0.55,0.45,Subaru,0.90,0.10,H&M,0.16,0.84,Sam's Club,0.38,0.62,Aspirin
+Wyoming,0.36,0.64,Fox News,0.64,0.36,Subaru,0.87,0.13,H&M,0.07,0.93,Sam's Club,0.39,0.61,Aspirin
+,,,,,,,,,,,,,,,
